@@ -11,5 +11,5 @@ Specify:
 - an image to provide the reference space (for example this could be an MNI template that was used for spatial normalisation or the group template generated in our work)
 - an output folder
 - for BLR also specify the number of permutations
-- the design file in xlsx format
+- the design file in xlsx format with 2 columns: Filename, pain score
     
