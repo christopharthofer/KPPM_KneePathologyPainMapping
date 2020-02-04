@@ -4,6 +4,7 @@ Matlab script for the evaluation of Voxel-based Knee Pathology-Pain Mapping (KPP
 We implemented two methods: permutation-based thresholding with binary logistic regression and Mann-Whitney testing (currently not used). Lesion and pain data can be simulated or provided as input with a design file. Tested with Matlab R2018b.
 
 Using the code
+
 Specify:
 - whether data is simulated or your own data provided
 - the type of test
