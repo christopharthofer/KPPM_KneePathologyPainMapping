@@ -9,7 +9,7 @@
 % Feel free to use the code under the attached license. Please cite:
 % Arthofer et al. (2020) An anatomical atlas of the knee and voxel-based 
 % knee pathology-pain mapping'
-
+% (C) Copyright 2020, Christoph Arthofer
 
 close all
 clear all
