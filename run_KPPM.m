@@ -29,7 +29,8 @@ stats_test = 1;
 n_perms = 500;
 
 % Output folder for resulting images
-output_folder = '~/output/';
+output_folder = './output/';
+mkdir(output_folder)
 
 if create_fake_lesions
     % Simulate two lesions, one linked to pain, one not linked to pain
