@@ -1,5 +1,5 @@
 # KPPM_KneePathologyPainMapping
-Affine and nonlinear anatomical knee templates and Matlab script for the evaluation of Voxel-based Knee Pathology-Pain Mapping (KPPM) as described in 'Arthofer et al. (2020) An anatomical atlas of the knee and voxel-based knee pathology-pain mapping'. Please cite if you use the templates and/or code.
+Affine and nonlinear anatomical knee templates and Matlab script for the evaluation of Voxel-based Knee Pathology-Pain Mapping (KPPM) as described in 'Arthofer et al. An anatomical atlas of the knee and voxel-based knee pathology-pain mapping'. Please cite if you use the templates and/or code.
 
 ## Using the code
 
