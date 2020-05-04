@@ -7,7 +7,7 @@
 % 
 % 
 % Feel free to use the code under the attached license. Please cite:
-% Arthofer et al. (2020) An anatomical atlas of the knee and voxel-based 
+% Arthofer et al. An anatomical atlas of the knee and voxel-based 
 % knee pathology-pain mapping'
 % (C) Copyright 2020, Christoph Arthofer
 
@@ -29,7 +29,7 @@ stats_test = 1;
 n_perms = 500;
 
 % Output folder for resulting images
-output_folder = '/Users/mszca/Documents/Data_temp/test/output/';
+output_folder = '~/output/';
 
 if create_fake_lesions
     % Simulate two lesions, one linked to pain, one not linked to pain
